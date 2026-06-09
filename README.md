@@ -1,6 +1,6 @@
 # Auto Claim Flags
 
-> ⚠️ **Test Version** — This is an early test release. Features may be unstable or change without notice.
+> ⚠️ **Test Version** — This is an early test release please report any bugs to the discord. Disclaimer Features may be unstable or change without notice.
 
 ## Loadstring
 Copy and paste the line below into your executor to run the script:
